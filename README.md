@@ -1,1 +1,3 @@
-# ProjectX
+---
+title: Hello, Pandoc
+---
